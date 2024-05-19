@@ -1,0 +1,7 @@
+{
+	"webSocketPort": 6970,
+	"natHelperPort": 6971,
+	"useUPNP": true,
+	"useMessageWSUrlOverride": true,
+	"messageWSUrlOverride": "5.144.97.188:6969"
+}
